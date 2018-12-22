@@ -9,6 +9,6 @@ public class Test {
 
     @RequestMapping(value = "/test")
     public String test(){
-        return "你好，spring boot项目！";
+        return "你好，spring boot项目！111";
     }
 }
