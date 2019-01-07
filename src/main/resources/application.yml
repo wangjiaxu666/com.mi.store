@@ -55,7 +55,7 @@ mybatis:
   config-location: classpath:mybatis/mybatis-conf.xml
 #tomcat
 server:
-  port: 8888
+  port: 8181
   servlet:
     context-path: /
 #自定义属性
